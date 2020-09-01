@@ -1,0 +1,17 @@
+{
+    "date": "Wed, 12 Dec 2018 10:07:35 GMT",
+    "people" : [
+        {
+            "name": "abc",
+            "occupation": "eeee",
+            "age": 29,
+            "country": "pakistan"
+        },
+        {
+            "name": "efg",
+            "occupation": "ffff",
+            "age": 28,
+            "country": "canada"
+        }
+    ]
+}
